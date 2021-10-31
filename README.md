@@ -1,5 +1,5 @@
 # Challenge-18
 
 
-![](Images/version2.png)
-***Image 1: Pychain via streamlit***
+![](Images/version2.PNG)
+***Image 1: PyChain via streamlit***
