@@ -212,7 +212,7 @@ st.markdown("## The PyChain Ledger")
 
 pychain_df = pd.DataFrame(pychain.chain)
 
-st.write(pychain_df.to_records().tostring())
+st.write(pychain_df.to_records())
 
 difficulty = st.sidebar.slider("Block Difficulty", 1, 5, 2)
 pychain.difficulty = difficulty
